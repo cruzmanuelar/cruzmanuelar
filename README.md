@@ -1,8 +1,8 @@
 ### Manuel Cruz :computer:
 <p><em>Estudiante de Ing de Software en <a href="https://unmsm.edu.pe/" target="_blank">Universidad Nacional Mayor de San Marcos</a></em></p>
-<p display="flex" align-Items="center">
+<p display="flex" align-items="center">
   Desarrollo Fronted con React
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="15" width="15">
 </p>
 <h2>Redes sociales</h2>
 <p align="center">
