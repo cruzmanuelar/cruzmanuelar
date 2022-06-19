@@ -1,5 +1,5 @@
 ### Manuel Cruz 👨‍💻
-<p><em>Estudiante de Ing de Software en <a href="https://unmsm.edu.pe/" target="_blank">Universidad Nacional Mayor de San Marcos</a></em></p>
+<p>Estudiante de Ing de Software en <a href="https://unmsm.edu.pe/" target="_blank">Universidad Nacional Mayor de San Marcos</a></p>
 <p display="flex" align-items="center">
   Desarrollo Fronted con React
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="15" width="15">
