@@ -31,8 +31,8 @@
         </p>
       </td>
     </tr>
-    <tr valign="top" width="100%">
-      <td width="50%" align="center">
+    <tr>
+      <td>
         <h3>Tecnologías usadas:</h3>
       </td>
     </tr>
@@ -41,6 +41,10 @@
 
 <h2>Redes sociales</h2>
 <p align="center">
-     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
+  <a href="https://www.instagram.com/codigo.python/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Perfil instagram /codigo.python" height="30" width="30">
+  </a>
+  <a href="https://www.linkedin.com/in/cruzmanuelar/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
+  </a>
 </p>
