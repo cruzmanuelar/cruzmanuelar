@@ -31,8 +31,8 @@
         </p>
       </td>
     </tr>
-    <tr>
-      <td>
+    <tr valign="top" width="100%">
+      <td width="50%" align="center">
         <h3>Tecnologías usadas:</h3>
       </td>
     </tr>
