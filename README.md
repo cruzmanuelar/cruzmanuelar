@@ -1,6 +1,6 @@
 ### Manuel Cruz 👨‍💻
 <p>Estudiante de Ing de Software en <a href="https://unmsm.edu.pe/" target="_blank">Universidad Nacional Mayor de San Marcos</a></p>
-<h3>Lenguajes</h3>
+<h3>Lenguajes:</h3>
 <p display="flex" align-items="center">
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Logo Python" height="15" width="15">
   JavaScript
