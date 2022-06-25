@@ -4,8 +4,8 @@
   Lenguajes: JavaScript, Python
 </p>
 <p display="flex" align-items="center">
-  Desarrollo Fronted con React
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="15" width="15">
+  Desarrollo Fronted con React
 </p>
 <h2>Redes sociales</h2>
 <p align="center">
