@@ -31,15 +31,16 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td>
+        <h3>Tecnologías usadas:</h3>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 <h2>Redes sociales</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/cruzmanuelar/" target="_blank">
-     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
-  </a>
-  <a href="https://www.instagram.com/codigo.python/" target="_blank">
-     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Perfil instagram /codigo.python" height="30" width="30">
-  </a>
+     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
 </p>
