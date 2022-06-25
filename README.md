@@ -31,3 +31,7 @@
      <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Perfil instagram /codigo.python" height="30" width="30">
   </a>
 </p>
+<div>
+  <div>columna uno<div>
+  <div>columna 2dos</div>
+</div>
