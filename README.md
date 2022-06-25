@@ -23,11 +23,11 @@
         <h3>También he colaborado en proyectos usando:</h3>
         <p display="flex" align-items="center">
           <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Logo Laravel" height="15" width="15">
-          Laravel en Backend
+          Laravel en Backend (PHP)
         </p>
         <p display="flex" align-items="center">
           <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Logo MySQL" height="15" width="15">
-          MYSQL como sistema gestor de BBDD
+          MySQL como sistema gestor de BBDD
         </p>
       </td>
     </tr>
