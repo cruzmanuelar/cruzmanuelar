@@ -3,7 +3,7 @@
 
 <table>
   <tbody>
-    <tr valign="top">
+    <tr valign="top" width="100%">
       <td width="50%" align="center" margin="0 auto">
         <h3>Lenguajes:</h3>
         <p display="flex" align-items="center">
