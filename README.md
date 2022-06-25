@@ -32,6 +32,6 @@
   </a>
 </p>
 <div>
-  <div>columna uno<div>
-  <div>columna 2dos</div>
+  <div style="width:50%;">columna uno<div>
+  <div style="width:50%;">columna 2dos</div>
 </div>
