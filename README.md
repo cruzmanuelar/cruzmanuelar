@@ -38,7 +38,10 @@
   <tbody>
     <tr valign="top" width="100%">
       <td width="100%" align="center" margin="0 auto">
-        <p>Otras tecnologias</p>
+        <h3>Otras tecnologías:</h3>
+        <div>
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Logo Git" height="15" width="15">
+        </div>
       </td>
     </tr>
   </tbody>
