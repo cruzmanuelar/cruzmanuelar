@@ -40,7 +40,8 @@
       <td width="100%" align="center" margin="0 auto">
         <h3>Otras tecnologías:</h3>
         <div>
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Logo Git" height="15" width="15">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" height="15" width="15">
+          <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Logo Git" height="15" width="15">
         </div>
       </td>
     </tr>
