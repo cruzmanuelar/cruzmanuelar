@@ -34,6 +34,15 @@
    
   </tbody>
 </table>
+<table>
+  <tbody>
+    <tr valign="top" width="100%">
+      <td width="100%" align="center" margin="0 auto">
+        <p>Otras tecnologias</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2>Redes sociales</h2>
 <p align="center">
