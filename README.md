@@ -1,6 +1,8 @@
 ### Manuel Cruz 👨‍💻
 <p>Estudiante de Ing de Software en <a href="https://unmsm.edu.pe/" target="_blank">Universidad Nacional Mayor de San Marcos</a></p>
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cruzmanuelar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pe.linkedin.com/in/cruzmanuelar?trk=profile-badge">José Manuel Cruz Esquivel</a></div>
+              
 <table>
   <tbody>
     <tr valign="top" width="100%">
