@@ -45,3 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Perfil linkedin /cruzmanuelar" height="30" width="30">
   </a>
 </p>
+<h2>Web</h2>
+<p align="center">
+  <a href="https://cruzmanuel.software">:desktop_computer: cruzmanuel.sofware</a>
+</p>
