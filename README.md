@@ -47,5 +47,5 @@
 </p>
 <!-- <h2>Web</h2> -->
 <p align="center">
-  <a href="https://cruzmanuel.software">:desktop_computer:Web: cruzmanuel.sofware</a>
+  :desktop_computer:Web:<a href="https://cruzmanuel.software"> cruzmanuel.sofware</a>
 </p>
