@@ -36,10 +36,10 @@
       <td width="50%" align="center" margin="0 auto">
         <h3>Herramientas:</h3>
         <div display="flex" align-items="center">
-          <p><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="15" width="15">
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" height="15" width="15">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" height="15" width="15">
-          <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Logo Trello" height="15" width="15"></p>
+          <p><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="25" width="25">
+          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" height="25" width="25">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" height="25" width="25">
+          <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Logo Trello" height="25" width="25"></p>
         </div>
       </td>
     </tr>
