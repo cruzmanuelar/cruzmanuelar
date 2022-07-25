@@ -32,7 +32,18 @@
         </p>
       </td>
     </tr>
-   
+    <tr valign="top" width="100%">
+      <td width="50%" align="center" margin="0 auto">
+        <h3>Herramientas:</h3>
+        <div display="flex" align-items="center">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="15" width="15">
+          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" height="15" width="15">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" height="15" width="15">
+          <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Logo Trello" height="15" width="15">
+          
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
 
