@@ -47,5 +47,5 @@
 </p>
 <!-- <h2>Web</h2> -->
 <p align="center">
-  :desktop_computer:Web: <a href="https://cruzmanuel.software">cruzmanuel.sofware</a>
+  :desktop_computer:Web: <a href="https://cruzmanuel.software" target="_blank">cruzmanuel.sofware</a>
 </p>
