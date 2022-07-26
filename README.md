@@ -36,7 +36,7 @@
       <td width="50%" align="center" margin="0 auto">
         <h3>Herramientas:</h3>
         <div display="flex" align-items="center">
-          <p><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="25" width="25">
+          <p><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="20" width="20">
           <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" height="20" width="20">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" height="20" width="20">
           <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Logo Trello" height="20" width="20"></p>
