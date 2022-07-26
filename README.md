@@ -8,7 +8,7 @@
       <td width="50%" align="center" margin="0 auto">
         <h3>Lenguajes:</h3>
         <p display="flex" align-items="center">
-          <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Logo Python" height="20" width="20">
+          <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Logo Python" height="15" width="15">
           JavaScript
         </p>
         <p display="flex" align-items="center">
