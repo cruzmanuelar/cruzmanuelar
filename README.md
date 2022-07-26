@@ -33,7 +33,7 @@
       </td>
     </tr>
     <tr valign="top" width="100%">
-      <td width="100%" align="center" margin="0 auto">
+      <td width="50%" align="center" margin="0 auto">
         <h3>Herramientas:</h3>
         <div display="flex" align-items="center">
           <p><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="20" width="20">
