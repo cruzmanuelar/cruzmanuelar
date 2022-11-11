@@ -15,6 +15,7 @@
           <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Logo Python" height="15" width="15">
           Python
         </p>
+        --------------------------------------------------------------------
         <p display="flex" align-items="center">
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Logo React" height="15" width="15">
           Desarrollo Fronted con React
