@@ -18,7 +18,7 @@
         --------------------------------------------------------------------
         <p display="flex" align-items="center">
           <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Logo React" height="15" width="15">
-          Desarrollo Fronted con React
+          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Logo React" height="15" width="15">
         </p>
       </td>
       <td width="50%" align="center">
