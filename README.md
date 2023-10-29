@@ -11,7 +11,7 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Logo React" height="30" width="30">
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Logo Laravel" height="30" width="30">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Logo Express" height="30" width="30">
+  <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Logo Express" height="30" width="30">
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Logo Node" height="30" width="30">
 </p>
 <h2>Gestor de Base de Datos</h2>
