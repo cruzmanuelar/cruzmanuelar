@@ -20,7 +20,7 @@
 </p>
 <h2>Herramientas</h2>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="20" width="20">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="30" width="30">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" height="30" width="30">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" height="30" width="30">
   <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Logo Trello" height="30" width="30">
