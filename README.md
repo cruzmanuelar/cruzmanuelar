@@ -47,6 +47,13 @@
   </tbody>
 </table>
 
+<h2>Herramientas</h2>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Logo Postman" height="20" width="20">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Logo Figma" height="20" width="20">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git" height="20" width="20">
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" alt="Logo Trello" height="20" width="20">
+</p>
 <h2>Redes sociales</h2>
 <p align="center">
   <a href="https://www.instagram.com/codigo.python/">
