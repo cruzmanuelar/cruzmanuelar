@@ -36,5 +36,5 @@
 </p>
 <!-- <h2>Web</h2> -->
 <p align="center">
-  :desktop_computer:Web: <a href="https://cruzmanuelar.vercel.app/" target="_blank">cruzmanuel</a>
+  :desktop_computer:Web: <a href="https://cruzmanuelar.vercel.app/" target="_blank">cruzmanuel.tech</a>
 </p>
